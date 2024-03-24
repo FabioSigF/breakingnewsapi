@@ -11,8 +11,12 @@
   "servers": [
     {
       "url": "http://localhost:3000",
-      "description": "Local"
-    }
+      "description": "Local Server"
+    },
+    {
+      "url": "https://breakingnewsapi.onrender.com",
+      "description": "Render Server"
+    },
   ],
   "paths": {
     "/user/create": {
