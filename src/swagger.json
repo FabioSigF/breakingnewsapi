@@ -16,7 +16,7 @@
     {
       "url": "https://breakingnewsapi.onrender.com",
       "description": "Render Server"
-    },
+    }
   ],
   "paths": {
     "/user/create": {
